@@ -1,0 +1,31 @@
+db name = PakChat
+db username = rizwanawan
+db password = $zihJt28mc$NHs2
+
+
+
+
+db name = id16617866_pakchat
+db user = id16617866_rizwanawan
+db host = localhost
+
+
+RemoteMySql
+
+Created!
+You have successfully created a new database. The details are below.
+
+Username: b160wlRLDe
+
+Database name: b160wlRLDe
+
+Password: NVepohH46D
+
+Server: remotemysql.com
+
+Port: 3306
+
+These are the username and password to log in to your database and phpMyAdmin
+
+Make sure you keep your password secure. Ensure you keep back ups of your database in case it gets deleted.
+
